@@ -12,3 +12,6 @@ to your raven.conf file. This will require a reindex which can take hours. Good 
 What does this do
 ----------------
 The ASSRAG can search the blockchain for recent transactions, then it saves receive addresses to file. After that it can optionally send assets to those addresses.
+
+
+Donate RVN here: RCghrkNAZWYoYZY3ZeSaRePYdDYcKXVWq9
