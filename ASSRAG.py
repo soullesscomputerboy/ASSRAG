@@ -1,4 +1,4 @@
-#Asset Super Spammer and Ravencoin Address Gatherer (RAGASS)
+#Asset Super Spammer and Ravencoin Address Gatherer (ASSRAG)
 #Uses the Ravencoin RPC library to gather recent addresses
 #Skips sending addresses because we assume there is a change address
 from ravenrpc import Ravencoin
